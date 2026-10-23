@@ -1,0 +1,14 @@
+{
+  "name": "offerhunt",
+  "version": "1.0.0",
+  "description": "Find and track jobs from Grok: search current US and Canada employer openings, get personalized matches from your resume and preferences, save jobs, and record applications through OfferHunt's hosted MCP server.",
+  "author": {
+    "name": "Fluey AI, Inc.",
+    "email": "contact@fluey.ai",
+    "url": "https://www.offerhunt.ai"
+  },
+  "repository": "https://github.com/harry-the-nerd/offerhunt-grok-plugin",
+  "homepage": "https://www.offerhunt.ai",
+  "license": "MIT",
+  "keywords": ["offerhunt", "offerhunt-jobs", "offerhunt-job-search"]
+}

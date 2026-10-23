@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "offerhunt": {
+      "type": "http",
+      "url": "https://www.offerhunt.ai/mcp",
+      "note": "Official hosted OfferHunt MCP server. Signs in with OAuth in the browser on first connection; no API key or local helper is required."
+    }
+  }
+}
