@@ -7,7 +7,7 @@ Published by Fluey AI, Inc., the company that operates [offerhunt.ai](https://ww
 ## What you can do
 
 - Search current employer job postings in the United States and Canada.
-- Get up to 10 personalized matches from your resume file and the preferences you confirm, with fit reasons and concerns.
+- Get personalized matches from your resume file and the preferences you confirm, with fit reasons and concerns: strong matches first, and more on request.
 - Save or dislike jobs and read a job's requirements and direct application link.
 - Record applications you made anywhere and follow them through applied, screening, interview, offer, accepted, ended or withdrawn.
 - Coordinate a browser application when your setup can operate the employer's site and you approve it. OfferHunt itself never contacts employers.

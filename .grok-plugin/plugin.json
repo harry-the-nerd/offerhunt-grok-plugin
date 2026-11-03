@@ -1,6 +1,6 @@
 {
   "name": "offerhunt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Find and track jobs from Grok: search current US and Canada employer openings, get personalized matches from your resume and preferences, save jobs, and record applications through OfferHunt's hosted MCP server.",
   "author": {
     "name": "Fluey AI, Inc.",
